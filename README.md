@@ -1,5 +1,5 @@
 # tictactoe
-2D tictactoe by Alex Lee
+2D java tictactoe by Alex Lee
 
 This is the game done by Alex Lee in Youtube https://www.youtube.com/watch?v=gQb3dE-y1S4&t=1668s.
 
